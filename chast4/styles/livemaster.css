@@ -1,0 +1,74 @@
+﻿.block {
+    font-family: Roboto;
+    width: 1900px;
+    height: auto;
+    margin: 0 auto;
+    padding: 80px;
+    background: #E1EEFF;
+    text-align: center;
+    box-sizing: border-box;
+}   
+.front {
+    width: 1260px;
+    height: 301px;
+    left: 365px;
+    padding: 10px 50px 10px 50px;
+    margin: 0 auto 40px;
+    font-size: 30px;    
+    text-align: left;
+    background: #FFFFFF;
+    box-shadow: 4px 4px 20px rgba(0, 0, 0, 0.15);
+    border-radius: 20px;
+    line-height: 42px;
+}
+.shrift { 
+    
+    margin-top: 20px;
+    margin-bottom: 20px;
+    line-height: 47px;
+    font-size: 40px;
+}
+#butn {
+    font-family: Roboto;
+    color: #FFFFFF;
+    width: 360px;
+    height: 60px;
+    float: right;
+    background: linear-gradient(180deg, #0276E5 0%, #0642BB 100%);
+    border-radius: 40px;
+    font-size: 24px;
+}
+#butn:hover {
+    background: linear-gradient(180deg, #0642BB 0%, #0276E5 100%);
+    border-radius: 40px;
+}
+.refer { 
+    text-decoration: none;
+    line-height: 35px;
+} 
+.bttn11 {
+    font-family: Roboto;
+    width: 360px;
+    height: 60px;
+    margin: 40px auto;
+    font-size: 24px;
+    line-height: 28px;
+    text-align: center;
+    color: #045FD3;
+    background: #E1EEFF;
+    box-shadow: 4px 4px 20px rgba(0, 0, 0, 0.15);
+    border: 4px solid #045FD3;
+    box-sizing: border-box;
+    border-radius: 40px;
+}
+.bttn11:hover {
+    background: none;
+}
+.hide {
+    display: none;
+}
+.roboto{
+    font-size: 45px;
+    margin-bottom: 60px;
+    line-height: 53px;
+}
